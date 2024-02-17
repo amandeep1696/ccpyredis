@@ -162,3 +162,4 @@ cython_debug/
 appendonlydir/
 .DS_Store
 dump.rdb
+redis-config/
